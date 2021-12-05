@@ -1,6 +1,8 @@
 //import Home from "./pages/Home";
 
-import Login from "./pages/Login";
+import Cart from "./pages/Cart";
+
+//import Login from "./pages/Login";
 
 //import Register from "./pages/Register";
 
@@ -10,7 +12,7 @@ import Login from "./pages/Login";
 
 function App() {
   return (
-    <Login/>
+    <Cart/>
   );
 }
 
